@@ -1,0 +1,176 @@
+* V.1.0				
+*				
+"* Partlist from file: Chaos LED Module.lay6"" / 19/04/2023 12:40:09"				
+				
+* Value	Name	Package		Notes
+				
+100R	R1	0805		
+100R	R5	0805		
+100R	R6	0805		
+100R	R10	0805		
+100R	R11	0805		
+100R	R15	0805		
+100R	R16	0805		
+100R	R20	0805		
+100R	R23	0805		
+100R	R27	0805		
+100R	R28	0805		
+100R	R32	0805		
+100R	R33	0805		
+100R	R37	0805		
+100R	R38	0805		
+100R	R42	0805		
+				
+10uF	C1	1206		Polarised or non-polarised
+10uF	C2	1206		Polarised or non-polarised
+10uF	C3	1206		Polarised or non-polarised
+10uF	C4	1206		Polarised or non-polarised
+10uF	C5	1206		Polarised or non-polarised
+10uF	C6	1206		Polarised or non-polarised
+10uF	C7	1206		Polarised or non-polarised
+10uF	C8	1206		Polarised or non-polarised
+				
+27K	R4	0805		
+27K	R9	0805		
+27K	R14	0805		
+27K	R19	0805		
+27K	R26	0805		
+27K	R31	0805		
+27K	R36	0805		
+27K	R41	0805		
+				
+2K7	R2	0805		
+2K7	R7	0805		
+2K7	R12	0805		
+2K7	R17	0805		
+2K7	R24	0805		
+2K7	R29	0805		
+2K7	R34	0805		
+2K7	R39	0805		
+				
+47K	R3	0805		
+47K	R8	0805		
+47K	R13	0805		
+47K	R18	0805		
+47K	R25	0805		
+47K	R30	0805		
+47K	R35	0805		
+47K	R40	0805		
+				
+5K1	R21	0805		
+5K1	R22	0805		
+				
+A2SHB	Q1	SOT-23		
+A2SHB	Q2	SOT-23		
+A2SHB	Q3	SOT-23		
+A2SHB	Q4	SOT-23		
+A2SHB	Q5	SOT-23		
+A2SHB	Q6	SOT-23		
+A2SHB	Q7	SOT-23		
+A2SHB	Q8	SOT-23		
+				
+LED 1A	LED 1A	5mm TH		
+LED 1A	LED 1A	5mm TH		
+LED 1A	LED 1A	5mm TH		
+LED 1A	LED 1A	5mm TH		
+LED 2B	LED 2B	5mm TH		
+LED 2B	LED 2B	5mm TH		
+LED 2B	LED 2B	5mm TH		
+LED 2B	LED 2B	5mm TH		
+LED 3B	LED 3B	5mm TH		
+LED 3B	LED 3B	5mm TH		
+LED 3B	LED 3B	5mm TH		
+LED 3B	LED 3B	5mm TH		
+LED 4A	LED 4A	5mm TH		
+LED 4A	LED 4A	5mm TH		
+LED 4A	LED 4A	5mm TH		
+LED 4A	LED 4A	5mm TH		
+				
+LED-ICA	LED-ICA	5mm TH		CANDLE EFFECT LED
+LED-ICA	LED-ICA	5mm TH		CANDLE EFFECT LED
+LED-ICA	LED-ICA	5mm TH		CANDLE EFFECT LED
+LED-ICA	LED-ICA	5mm TH		CANDLE EFFECT LED
+LED-ICB	LED-ICB	5mm TH		CANDLE EFFECT LED
+LED-ICB	LED-ICB	5mm TH		CANDLE EFFECT LED
+LED-ICB	LED-ICB	5mm TH		CANDLE EFFECT LED
+LED-ICB	LED-ICB	5mm TH		CANDLE EFFECT LED
+				
+USB3.1	CON1	TH		Type C 16 Pin Socket Connector USB 3.1 Vertical Plug-in Board Female 
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+	100R	R42		
