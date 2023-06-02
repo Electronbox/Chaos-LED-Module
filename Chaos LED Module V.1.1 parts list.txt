@@ -1,6 +1,6 @@
-* V.1.0				
+* V.1.1			
 *				
-"* Partlist from file: Chaos LED Module.lay6"" / 19/04/2023 12:40:09"				
+"* Partlist from file: Chaos LED Module.lay6"" / 2nd June 2023"				
 				
 * Value	Name	Package		Notes
 				
@@ -21,14 +21,14 @@
 100R	R38	0805		
 100R	R42	0805		
 				
-10uF	C1	1206		Polarised or non-polarised
-10uF	C2	1206		Polarised or non-polarised
-10uF	C3	1206		Polarised or non-polarised
-10uF	C4	1206		Polarised or non-polarised
-10uF	C5	1206		Polarised or non-polarised
-10uF	C6	1206		Polarised or non-polarised
-10uF	C7	1206		Polarised or non-polarised
-10uF	C8	1206		Polarised or non-polarised
+10uF	C1	1206		MLCC
+10uF	C2	1206		MLCC
+10uF	C3	1206		MLCC
+10uF	C4	1206		MLCC
+10uF	C5	1206		MLCC
+10uF	C6	1206		MLCC
+10uF	C7	1206		MLCC
+10uF	C8	1206		MLCC
 				
 27K	R4	0805		
 27K	R9	0805		
